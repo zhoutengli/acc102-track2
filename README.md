@@ -44,4 +44,4 @@ This project compares the 2023 stock performance of Microsoft (MSFT) and Apple (
 - No fundamental financial ratios included
 
 ### 8. Demo Video
-[Your demo video link here]
+https://www.bilibili.com/video/BV1PqoFB7EiA/
